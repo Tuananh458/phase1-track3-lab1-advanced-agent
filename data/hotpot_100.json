@@ -1,0 +1,802 @@
+[
+  {
+    "qid": "q1",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Eiffel Tower is located?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is a landmark located in France."
+      },
+      {
+        "title": "France",
+        "text": "France is a country in Europe. The capital of France is Paris."
+      }
+    ]
+  },
+  {
+    "qid": "q2",
+    "difficulty": "medium",
+    "question": "Which country was the composer of the Moonlight Sonata born in?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "Moonlight Sonata",
+        "text": "The Moonlight Sonata was composed by Ludwig van Beethoven."
+      },
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven was a German composer born in Germany."
+      }
+    ]
+  },
+  {
+    "qid": "q3",
+    "difficulty": "easy",
+    "question": "Who directed the movie that stars the actor who plays Iron Man?",
+    "gold_answer": "Jon Favreau",
+    "context": [
+      {
+        "title": "Iron Man",
+        "text": "Iron Man is a 2008 film starring Robert Downey Jr. and directed by Jon Favreau."
+      },
+      {
+        "title": "Robert Downey Jr.",
+        "text": "Robert Downey Jr. is an actor who played the character Iron Man."
+      }
+    ]
+  },
+  {
+    "qid": "q4",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Colosseum is located?",
+    "gold_answer": "Rome",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is a historical amphitheater located in Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy is a nation whose capital city is Rome."
+      }
+    ]
+  },
+  {
+    "qid": "q5",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Mount Fuji is located?",
+    "gold_answer": "Tokyo",
+    "context": [
+      {
+        "title": "Mount Fuji",
+        "text": "Mount Fuji is the tallest mountain in Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is a nation whose capital city is Tokyo."
+      }
+    ]
+  },
+  {
+    "qid": "q6",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Great Pyramid of Giza is located?",
+    "gold_answer": "Cairo",
+    "context": [
+      {
+        "title": "Great Pyramid of Giza",
+        "text": "The Great Pyramid of Giza is located in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is a nation whose capital city is Cairo."
+      }
+    ]
+  },
+  {
+    "qid": "q7",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Big Ben is located?",
+    "gold_answer": "London",
+    "context": [
+      {
+        "title": "Big Ben",
+        "text": "Big Ben is the nickname for the Great Bell of the clock in London, United Kingdom."
+      },
+      {
+        "title": "United Kingdom",
+        "text": "United Kingdom is a nation whose capital city is London."
+      }
+    ]
+  },
+  {
+    "qid": "q8",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Taj Mahal is located?",
+    "gold_answer": "New Delhi",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal is an ivory-white marble mausoleum in India."
+      },
+      {
+        "title": "India",
+        "text": "India is a nation whose capital city is New Delhi."
+      }
+    ]
+  },
+  {
+    "qid": "q9",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Great Wall of China is located?",
+    "gold_answer": "Beijing",
+    "context": [
+      {
+        "title": "Great Wall of China",
+        "text": "The Great Wall of China is a historic fortification in China."
+      },
+      {
+        "title": "China",
+        "text": "China is a nation whose capital city is Beijing."
+      }
+    ]
+  },
+  {
+    "qid": "q10",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Statue of Liberty is located?",
+    "gold_answer": "Washington D.C.",
+    "context": [
+      {
+        "title": "Statue of Liberty",
+        "text": "The Statue of Liberty is a colossal neoclassical sculpture in the United States."
+      },
+      {
+        "title": "United States",
+        "text": "United States is a nation whose capital city is Washington D.C.."
+      }
+    ]
+  },
+  {
+    "qid": "q11",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Sydney Opera House is located?",
+    "gold_answer": "Canberra",
+    "context": [
+      {
+        "title": "Sydney Opera House",
+        "text": "The Sydney Opera House is located in Australia."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is a nation whose capital city is Canberra."
+      }
+    ]
+  },
+  {
+    "qid": "q12",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Christ the Redeemer is located?",
+    "gold_answer": "Brasilia",
+    "context": [
+      {
+        "title": "Christ the Redeemer",
+        "text": "Christ the Redeemer is an Art Deco statue of Jesus Christ in Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil is a nation whose capital city is Brasilia."
+      }
+    ]
+  },
+  {
+    "qid": "q13",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Kremlin is located?",
+    "gold_answer": "Moscow",
+    "context": [
+      {
+        "title": "Kremlin",
+        "text": "The Kremlin is a fortified complex in the heart of Moscow, Russia."
+      },
+      {
+        "title": "Russia",
+        "text": "Russia is a nation whose capital city is Moscow."
+      }
+    ]
+  },
+  {
+    "qid": "q14",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the CN Tower is located?",
+    "gold_answer": "Ottawa",
+    "context": [
+      {
+        "title": "CN Tower",
+        "text": "CN Tower is a signature icon of Toronto, Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "Canada is a nation whose capital city is Ottawa."
+      }
+    ]
+  },
+  {
+    "qid": "q15",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Sagrada Familia is located?",
+    "gold_answer": "Madrid",
+    "context": [
+      {
+        "title": "Sagrada Familia",
+        "text": "Sagrada Familia is a large unfinished Roman Catholic minor basilica in Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spain is a nation whose capital city is Madrid."
+      }
+    ]
+  },
+  {
+    "qid": "q16",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Parthenon is located?",
+    "gold_answer": "Athens",
+    "context": [
+      {
+        "title": "Parthenon",
+        "text": "The Parthenon is a former temple on the Athenian Acropolis, Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece is a nation whose capital city is Athens."
+      }
+    ]
+  },
+  {
+    "qid": "q17",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Chichen Itza is located?",
+    "gold_answer": "Mexico City",
+    "context": [
+      {
+        "title": "Chichen Itza",
+        "text": "Chichen Itza was a large pre-Columbian city built by the Maya people in Mexico."
+      },
+      {
+        "title": "Mexico",
+        "text": "Mexico is a nation whose capital city is Mexico City."
+      }
+    ]
+  },
+  {
+    "qid": "q18",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Machu Picchu is located?",
+    "gold_answer": "Lima",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is a 15th-century Inca citadel located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru is a nation whose capital city is Lima."
+      }
+    ]
+  },
+  {
+    "qid": "q19",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Petra is located?",
+    "gold_answer": "Amman",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is a famous archaeological site in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan is a nation whose capital city is Amman."
+      }
+    ]
+  },
+  {
+    "qid": "q20",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Angkor Wat is located?",
+    "gold_answer": "Phnom Penh",
+    "context": [
+      {
+        "title": "Angkor Wat",
+        "text": "Angkor Wat is a temple complex in Cambodia."
+      },
+      {
+        "title": "Cambodia",
+        "text": "Cambodia is a nation whose capital city is Phnom Penh."
+      }
+    ]
+  },
+  {
+    "qid": "q21",
+    "difficulty": "easy",
+    "question": "What is the capital of the country where the Hagia Sophia is located?",
+    "gold_answer": "Ankara",
+    "context": [
+      {
+        "title": "Hagia Sophia",
+        "text": "Hagia Sophia is a historic house of worship in Turkey."
+      },
+      {
+        "title": "Turkey",
+        "text": "Turkey is a nation whose capital city is Ankara."
+      }
+    ]
+  },
+  {
+    "qid": "q22",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Burj Khalifa is located?",
+    "gold_answer": "Abu Dhabi",
+    "context": [
+      {
+        "title": "Burj Khalifa",
+        "text": "Burj Khalifa is a skyscraper in Dubai, United Arab Emirates."
+      },
+      {
+        "title": "United Arab Emirates",
+        "text": "United Arab Emirates is a nation whose capital city is Abu Dhabi."
+      }
+    ]
+  },
+  {
+    "qid": "q23",
+    "difficulty": "hard",
+    "question": "What is the capital of the country where the Table Mountain is located?",
+    "gold_answer": "Pretoria",
+    "context": [
+      {
+        "title": "Table Mountain",
+        "text": "Table Mountain is a flat-topped mountain forming a prominent landmark overlooking South Africa."
+      },
+      {
+        "title": "South Africa",
+        "text": "South Africa is a nation whose capital city is Pretoria."
+      }
+    ]
+  },
+  {
+    "qid": "q24",
+    "difficulty": "easy",
+    "question": "In which country was the scientist who accomplished the Theory of Relativity born?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "Theory of Relativity",
+        "text": "The Theory of Relativity was developed by Albert Einstein."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein was a scientist born in Germany."
+      }
+    ]
+  },
+  {
+    "qid": "q25",
+    "difficulty": "medium",
+    "question": "In which country was the scientist who accomplished the Principia Mathematica born?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "Principia Mathematica",
+        "text": "Principia Mathematica is a work by Isaac Newton containing the laws of motion."
+      },
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton was a scientist born in England."
+      }
+    ]
+  },
+  {
+    "qid": "q26",
+    "difficulty": "hard",
+    "question": "In which country was the scientist who accomplished the discovery of Polonium born?",
+    "gold_answer": "Poland",
+    "context": [
+      {
+        "title": "discovery of Polonium",
+        "text": "Polonium was discovered by Marie Curie in 1898."
+      },
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie was a scientist born in Poland."
+      }
+    ]
+  },
+  {
+    "qid": "q27",
+    "difficulty": "easy",
+    "question": "In which country was the scientist who accomplished the On the Origin of Species born?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "On the Origin of Species",
+        "text": "On the Origin of Species is a work of scientific literature by Charles Darwin."
+      },
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was a scientist born in England."
+      }
+    ]
+  },
+  {
+    "qid": "q28",
+    "difficulty": "medium",
+    "question": "In which country was the scientist who accomplished the discovery of Jupiter moons born?",
+    "gold_answer": "Italy",
+    "context": [
+      {
+        "title": "discovery of Jupiter moons",
+        "text": "The Galilean moons of Jupiter were discovered by Galileo Galilei."
+      },
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was a scientist born in Italy."
+      }
+    ]
+  },
+  {
+    "qid": "q29",
+    "difficulty": "hard",
+    "question": "In which country was the scientist who accomplished the alternating current system born?",
+    "gold_answer": "Croatia",
+    "context": [
+      {
+        "title": "alternating current system",
+        "text": "The alternating current system was patented by Nikola Tesla."
+      },
+      {
+        "title": "Nikola Tesla",
+        "text": "Nikola Tesla was a scientist born in Croatia."
+      }
+    ]
+  },
+  {
+    "qid": "q30",
+    "difficulty": "easy",
+    "question": "In which country was the scientist who accomplished the pasteurization process born?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "pasteurization process",
+        "text": "Pasteurization is a process invented by Louis Pasteur."
+      },
+      {
+        "title": "Louis Pasteur",
+        "text": "Louis Pasteur was a scientist born in France."
+      }
+    ]
+  },
+  {
+    "qid": "q31",
+    "difficulty": "medium",
+    "question": "In which country was the scientist who accomplished the discovery of penicillin born?",
+    "gold_answer": "Scotland",
+    "context": [
+      {
+        "title": "discovery of penicillin",
+        "text": "Penicillin was discovered by Alexander Fleming in 1928."
+      },
+      {
+        "title": "Alexander Fleming",
+        "text": "Alexander Fleming was a scientist born in Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "q32",
+    "difficulty": "hard",
+    "question": "In which country was the scientist who accomplished the laws of Mendelian inheritance born?",
+    "gold_answer": "Austria",
+    "context": [
+      {
+        "title": "laws of Mendelian inheritance",
+        "text": "Mendelian inheritance was formulated by Gregor Mendel."
+      },
+      {
+        "title": "Gregor Mendel",
+        "text": "Gregor Mendel was a scientist born in Austria."
+      }
+    ]
+  },
+  {
+    "qid": "q33",
+    "difficulty": "easy",
+    "question": "In which country was the scientist who accomplished the Periodic Table born?",
+    "gold_answer": "Russia",
+    "context": [
+      {
+        "title": "Periodic Table",
+        "text": "The Periodic Table of elements was created by Dmitri Mendeleev."
+      },
+      {
+        "title": "Dmitri Mendeleev",
+        "text": "Dmitri Mendeleev was a scientist born in Russia."
+      }
+    ]
+  },
+  {
+    "qid": "q34",
+    "difficulty": "medium",
+    "question": "In which country was the scientist who accomplished the first computer algorithm born?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "first computer algorithm",
+        "text": "The first computer algorithm was written by Ada Lovelace."
+      },
+      {
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was a scientist born in England."
+      }
+    ]
+  },
+  {
+    "qid": "q35",
+    "difficulty": "hard",
+    "question": "In which country was the scientist who accomplished the Turing Machine concept born?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "Turing Machine concept",
+        "text": "The Turing Machine concept was proposed by Alan Turing."
+      },
+      {
+        "title": "Alan Turing",
+        "text": "Alan Turing was a scientist born in England."
+      }
+    ]
+  },
+  {
+    "qid": "q36",
+    "difficulty": "easy",
+    "question": "In which country was the scientist who accomplished the Hawking radiation prediction born?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "Hawking radiation prediction",
+        "text": "Hawking radiation is black-body radiation predicted by Stephen Hawking."
+      },
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a scientist born in England."
+      }
+    ]
+  },
+  {
+    "qid": "q37",
+    "difficulty": "medium",
+    "question": "In which country was the scientist who accomplished the laws of planetary motion born?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "laws of planetary motion",
+        "text": "The laws of planetary motion were formulated by Johannes Kepler."
+      },
+      {
+        "title": "Johannes Kepler",
+        "text": "Johannes Kepler was a scientist born in Germany."
+      }
+    ]
+  },
+  {
+    "qid": "q38",
+    "difficulty": "hard",
+    "question": "In which country was the scientist who accomplished the invention of incandescent light bulb born?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "invention of incandescent light bulb",
+        "text": "The incandescent light bulb was commercialized by Thomas Edison."
+      },
+      {
+        "title": "Thomas Edison",
+        "text": "Thomas Edison was a scientist born in United States."
+      }
+    ]
+  },
+  {
+    "qid": "q39",
+    "difficulty": "easy",
+    "question": "In which country was the scientist who accomplished the laws of electromagnetic induction born?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "laws of electromagnetic induction",
+        "text": "Electromagnetic induction was discovered by Michael Faraday."
+      },
+      {
+        "title": "Michael Faraday",
+        "text": "Michael Faraday was a scientist born in England."
+      }
+    ]
+  },
+  {
+    "qid": "q40",
+    "difficulty": "medium",
+    "question": "In which country was the scientist who accomplished the equations of electromagnetism born?",
+    "gold_answer": "Scotland",
+    "context": [
+      {
+        "title": "equations of electromagnetism",
+        "text": "Electromagnetic equations were formulated by James Clerk Maxwell."
+      },
+      {
+        "title": "James Clerk Maxwell",
+        "text": "James Clerk Maxwell was a scientist born in Scotland."
+      }
+    ]
+  },
+  {
+    "qid": "q41",
+    "difficulty": "hard",
+    "question": "In which country was the scientist who accomplished the discovery of Oxygen role born?",
+    "gold_answer": "France",
+    "context": [
+      {
+        "title": "discovery of Oxygen role",
+        "text": "The role of oxygen in combustion was discovered by Antoine Lavoisier."
+      },
+      {
+        "title": "Antoine Lavoisier",
+        "text": "Antoine Lavoisier was a scientist born in France."
+      }
+    ]
+  },
+  {
+    "qid": "q42",
+    "difficulty": "easy",
+    "question": "In which country was the scientist who accomplished the discovery of plant cells born?",
+    "gold_answer": "England",
+    "context": [
+      {
+        "title": "discovery of plant cells",
+        "text": "Plant cells were first discovered and named by Robert Hooke."
+      },
+      {
+        "title": "Robert Hooke",
+        "text": "Robert Hooke was a scientist born in England."
+      }
+    ]
+  },
+  {
+    "qid": "q43",
+    "difficulty": "medium",
+    "question": "In which country was the scientist who accomplished the Feynman diagrams development born?",
+    "gold_answer": "United States",
+    "context": [
+      {
+        "title": "Feynman diagrams development",
+        "text": "Feynman diagrams were developed by Richard Feynman."
+      },
+      {
+        "title": "Richard Feynman",
+        "text": "Richard Feynman was a scientist born in United States."
+      }
+    ]
+  },
+  {
+    "qid": "q44",
+    "difficulty": "hard",
+    "question": "In which country was the scientist who accomplished the Bohr model of the atom born?",
+    "gold_answer": "Denmark",
+    "context": [
+      {
+        "title": "Bohr model of the atom",
+        "text": "The Bohr model of the atom was proposed by Niels Bohr."
+      },
+      {
+        "title": "Niels Bohr",
+        "text": "Niels Bohr was a scientist born in Denmark."
+      }
+    ]
+  },
+  {
+    "qid": "q45",
+    "difficulty": "easy",
+    "question": "In which country was the scientist who accomplished the quantum theory founding born?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "quantum theory founding",
+        "text": "Quantum theory was founded by Max Planck."
+      },
+      {
+        "title": "Max Planck",
+        "text": "Max Planck was a scientist born in Germany."
+      }
+    ]
+  },
+  {
+    "qid": "q46",
+    "difficulty": "medium",
+    "question": "In which country was the scientist who accomplished the Schrodinger equation formulation born?",
+    "gold_answer": "Austria",
+    "context": [
+      {
+        "title": "Schrodinger equation formulation",
+        "text": "The wave equation was formulated by Erwin Schrodinger."
+      },
+      {
+        "title": "Erwin Schrodinger",
+        "text": "Erwin Schrodinger was a scientist born in Austria."
+      }
+    ]
+  },
+  {
+    "qid": "q47",
+    "difficulty": "hard",
+    "question": "In which country was the scientist who accomplished the Uncertainty Principle formulation born?",
+    "gold_answer": "Germany",
+    "context": [
+      {
+        "title": "Uncertainty Principle formulation",
+        "text": "The Uncertainty Principle was formulated by Werner Heisenberg."
+      },
+      {
+        "title": "Werner Heisenberg",
+        "text": "Werner Heisenberg was a scientist born in Germany."
+      }
+    ]
+  },
+  {
+    "qid": "q48",
+    "difficulty": "easy",
+    "question": "In which country was the scientist who accomplished the experiments on pea plants born?",
+    "gold_answer": "Austria",
+    "context": [
+      {
+        "title": "experiments on pea plants",
+        "text": "Pea plant experiments were conducted by Gregor Mendel."
+      },
+      {
+        "title": "Gregor Mendel",
+        "text": "Gregor Mendel was a scientist born in Austria."
+      }
+    ]
+  },
+  {
+    "qid": "q49",
+    "difficulty": "medium",
+    "question": "In which country was the scientist who accomplished the system of binomial nomenclature born?",
+    "gold_answer": "Sweden",
+    "context": [
+      {
+        "title": "system of binomial nomenclature",
+        "text": "Binomial nomenclature was created by Carl Linnaeus."
+      },
+      {
+        "title": "Carl Linnaeus",
+        "text": "Carl Linnaeus was a scientist born in Sweden."
+      }
+    ]
+  },
+  {
+    "qid": "q50",
+    "difficulty": "hard",
+    "question": "In which country was the scientist who accomplished the invention of dynamite born?",
+    "gold_answer": "Sweden",
+    "context": [
+      {
+        "title": "invention of dynamite",
+        "text": "Dynamite was invented by Alfred Nobel in 1867."
+      },
+      {
+        "title": "Alfred Nobel",
+        "text": "Alfred Nobel was a scientist born in Sweden."
+      }
+    ]
+  }
+]
